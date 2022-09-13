@@ -40,13 +40,20 @@ nav{
 }
 #add-task{
     background-color:#45ABEA;
-    border-radius: 10%;
-    border-color: #45ABEA;
+    border-radius: 5px;
+    border: 1px solid#45ABEA;
     color: white;
+    padding: 3px;
 }
 #add-section{
     background-color: white;
-    border-radius: 10%;
-    border-color: grey;
+    border-radius: 5px;
+    border: 1px solid grey;
     color: grey;
+    padding: 3px;
+}
+
+.circle{
+    height: 15px;
+    width: 15px;
 }
