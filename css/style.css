@@ -85,6 +85,7 @@ nav{
     color: white;
     border-radius: 10px;
     padding: 3px;
+    margin-top: 100px;
 }
 
 #editorial{
@@ -105,4 +106,14 @@ nav{
 #mobile{
     border-color:#F29E33 ;
     background-color: #F29E33;
+}
+
+#website{
+    border-color: #D863A1;
+    background-color: #D863A1;
+}
+
+#sales{
+    border-color:#B0C926 ;
+    background-color: #B0C926;
 }
