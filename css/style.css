@@ -30,6 +30,7 @@ h1{
     max-width: 800px;
     margin: auto;
     background-color: white;
+    margin-bottom: 5px;
 }
 
 nav{
@@ -72,4 +73,36 @@ nav{
 #cross{
     border-color: red;
     color: red;
+}
+
+.task{
+    display: inline-block;
+}
+
+.tag{
+    display: inline;
+    border: 1px solid ;
+    color: white;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+#editorial{
+    border-color: #45ABEA;
+    background-color: #45ABEA;
+}
+
+#q1-goals{
+    border-color: #9C72E4;
+    background-color: #9C72E4;
+}
+
+#recruiting{
+    border-color: #64C0A9;
+    background-color: #64C0A9;
+}
+
+#mobile{
+    border-color:#F29E33 ;
+    background-color: #F29E33;
 }
