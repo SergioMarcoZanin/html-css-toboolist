@@ -8,10 +8,11 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #F6F8F9;
 }
-
+/* hader */
 header{
     padding: 10px 20px;
     background-color: white;
+    margin-bottom: 40px;
 }
 
 h1{
@@ -21,4 +22,31 @@ h1{
 
 .logo{
     vertical-align: middle;
+}
+/* header */
+
+/* main */
+.container{
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+nav{
+    max-width: 800px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 5px;
+}
+#add-task{
+    background-color:#45ABEA;
+    border-radius: 10%;
+    border-color: #45ABEA;
+    color: white;
+}
+#add-section{
+    background-color: white;
+    border-radius: 10%;
+    border-color: grey;
+    color: grey;
 }
